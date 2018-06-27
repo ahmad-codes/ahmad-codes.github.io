@@ -1,0 +1,65 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	
+	font-family: 'Bree Serif', serif,'Bangers', cursive,monospace;
+}
+
+.introduction{
+	background: #41C300;
+	color:white;
+	min-height: 60vh;
+
+	padding-top: 40vh;
+
+	font-size: 50px;
+	text-align: center;
+
+	background: #02B8D8;
+	color: #FFFFFF; 
+	font-family: 'Paytone One'; 
+	text-shadow: -.08em .08em #0199D9;
+}
+
+h1{
+	/*border: 1px solid black;*/
+}
+
+nav{
+
+	/*border: 1px solid black;*/
+	box-shadow: 0 10px black;
+}
+nav ul {
+	text-align: right;
+	position: fixed;
+	width: 100%;
+	background-color: yellow;
+	/*border: 1px solid black;*/
+	box-shadow: 0 5px  2px black;
+}
+nav ul li{
+	/*border: 1px solid black;*/
+
+	display: inline-block;
+	margin: 30px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 30px;
+
+
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+
+h2{
+	text-align: center;
+}
+
